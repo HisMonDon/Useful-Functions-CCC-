@@ -1,1 +1,1 @@
-Here are some useful functions I came up with that I think are really helpful in senior problems.
+Here are some useful algorithms I came up with -- even though they might not be as efficient than proven algorithms, it is really cool :D
